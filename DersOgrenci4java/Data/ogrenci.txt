@@ -1,0 +1,1 @@
+Ogrenci No: 1	Ogrenci Ad: Ahmet	Ogrenci Soyad: Yılmaz	Ogrenci Bolum: Matematik
